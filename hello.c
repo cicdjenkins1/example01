@@ -6,6 +6,7 @@ int main(void)
 
 	printf("test1\n");
 	printf("webhook_test1\n");
+	printf("build change test\n");
 
 	return 0;
 }
